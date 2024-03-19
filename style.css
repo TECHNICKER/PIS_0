@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#obsah {
+    min-width: fit-content;
+    padding: 5vw;
+}
+
+#telo {
+    ;
+}
+
+#infobox {
+    min-width: fit-content;
+    height: fit-content;
+    padding: 1vw;
+    margin: 5vw;
+    background-color: aliceblue;
+    border-style: solid ;
+}
+
+#infoboxtitle {
+    background-color: gainsboro;
+    text-align: center;
+    margin: 0.5vh;
+}
+
+#rowzie {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+#leftie {
+    padding-right: 1vw;
+}
